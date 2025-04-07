@@ -13,12 +13,12 @@ Este proyecto aborda el problema del particionamiento de datos en dos grupos hom
    cd algoritmo_genetico
 ```
 3. Crear y activar entorno virtual:
-    -En Windows:
+- En Windows:
 ```bash
    python -m venv venv
    venv\Scripts\activate
  ```
-    -En Linux:
+- En Linux:
 ```bash
    python3 -m venv venv
    source venv/bin/activate
@@ -31,4 +31,7 @@ Este proyecto aborda el problema del particionamiento de datos en dos grupos hom
 
 ## Ejecución
 
-
+1. Ejecutar con:
+```bash
+    python -m src.main
+```
