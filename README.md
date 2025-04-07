@@ -4,26 +4,26 @@ Este proyecto aborda el problema del particionamiento de datos en dos grupos hom
 
 ## Instalación
 
-`1. Clonar el repositorio:
+1. Clonar el repositorio:
 ```bash
    git clone https://github.com/belecastillo/Algoritmo_Genetico.git
  ```
-`2. Ir a la carpeta del Proyecto:
+2. Ir a la carpeta del Proyecto:
 ```bash
    cd algoritmo_genetico
 ```
-`3. Crear y activar entorno virtual:
--En Windows:
+3. Crear y activar entorno virtual:
+    -En Windows:
 ```bash
    python -m venv venv
    venv\Scripts\activate
  ```
--En Linux:
+    -En Linux:
 ```bash
    python3 -m venv venv
    source venv/bin/activate
  ```
-`4. Instalar dependecias:
+4. Instalar dependecias:
 ```bash
    pip install -r requirements.txt
  ```
